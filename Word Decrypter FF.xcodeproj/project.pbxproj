@@ -13,6 +13,7 @@
 		7C190DE426FE29D600031639 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C190DE226FE29D600031639 /* Main.storyboard */; };
 		7C190DE626FE29D700031639 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C190DE526FE29D700031639 /* Assets.xcassets */; };
 		7C190DE926FE29D700031639 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C190DE726FE29D700031639 /* LaunchScreen.storyboard */; };
+		7CA4A99F273ED2320005EB59 /* Coco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA4A99E273ED2320005EB59 /* Coco.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7C190DE526FE29D700031639 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C190DE826FE29D700031639 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C190DEA26FE29D700031639 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CA4A99E273ED2320005EB59 /* Coco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coco.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		7C190DD026FE29D600031639 = {
 			isa = PBXGroup;
 			children = (
+				7CA4A99E273ED2320005EB59 /* Coco.swift */,
 				7C190DDB26FE29D600031639 /* Word Decrypter FF */,
 				7C190DDA26FE29D600031639 /* Products */,
 			);
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C190DE126FE29D600031639 /* ViewController.swift in Sources */,
+				7CA4A99F273ED2320005EB59 /* Coco.swift in Sources */,
 				7C190DDD26FE29D600031639 /* AppDelegate.swift in Sources */,
 				7C190DDF26FE29D600031639 /* SceneDelegate.swift in Sources */,
 			);

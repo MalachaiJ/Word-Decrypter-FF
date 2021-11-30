@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Enter Message Bellow"; ObjectID = "S3N-hb-ztG"; */
+"S3N-hb-ztG.text" = "Enter Message Bellow";
+
+/* Class = "UIButton"; configuration.title = "Decrypt Me"; ObjectID = "jWF-tt-zJ3"; */
+"jWF-tt-zJ3.configuration.title" = "Decrypt Me";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jWF-tt-zJ3"; */
+"jWF-tt-zJ3.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Message"; ObjectID = "lSK-Rv-qOx"; */
+"lSK-Rv-qOx.placeholder" = "Message";
+
+/* Class = "UIButton"; configuration.title = "secret button"; ObjectID = "wHE-P6-UBA"; */
+"wHE-P6-UBA.configuration.title" = "secret button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wHE-P6-UBA"; */
+"wHE-P6-UBA.normalTitle" = "Button";
